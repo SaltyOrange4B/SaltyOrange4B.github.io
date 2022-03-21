@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #41ffff;
+  background: #05ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2288,4 +2288,31 @@ embed {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+body {
+  background: url("/images/ndmz.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+  color: #000;
+}
+.header-inner {
+  background: #fff;
+  opacity: 0.6;
+}
+.posts-expand .post-meta-container {
+  color: #000;
+}
+.posts-expand .post-title-link {
+  color: #000;
+}
+.sidebar {
+  opacity: 0.6;
+}
+.post-block {
+  background: rgba(245,245,245,0.42);
+  border-radius: initial;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
+  padding: 40px;
 }
