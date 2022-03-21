@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SaltyOrange</title>
+  
+  
+  <link href="https://saltyorange4b.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://saltyorange4b.github.io/"/>
+  <updated>2022-03-21T08:40:07.222Z</updated>
+  <id>https://saltyorange4b.github.io/</id>
+  
+  <author>
+    <name>XuKaige</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>exp5</title>
+    <link href="https://saltyorange4b.github.io/2022/03/21/exp5/"/>
+    <id>https://saltyorange4b.github.io/2022/03/21/exp5/</id>
+    <published>2022-03-21T08:38:42.000Z</published>
+    <updated>2022-03-21T08:40:07.222Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>2-1、列举威胁作用者有哪些，并简要说明。</strong></p><p>威胁作用者主要有：<br>匿名攻击者、恶意服务作用者，授信的攻击者、恶意的内部人员；</p><p>说明：<br>匿名攻击者是不被信任的威胁作用者，通常试图从云边界的外部进行攻击<br>恶意服务作用者截取网络通信，试图恶意地使用或篡改数据。<br>授信的攻击者是经过授权的云服务用户，具有合法的证书，他们会使用这些证书来访问基于云的IT资源。<br>恶意的内部人员是试图滥用对云资源范围的访问特权的人。</p><p><strong>2-2、列举云安全威胁有哪些，并简要说明。</strong></p><p>云安全威胁主要有：<br>流量窃听<br>恶意媒介<br>拒绝服务<br>授权不足<br>虚拟化攻击<br>信任边界重叠<br>说明：<br>流量窃听和恶意媒介攻击通常是由截取网络流量的恶意服务作用者实施的；<br>拒绝服务攻击的发生是当目标IT资源由于请求过多而负载过重，这些请求意在使IT资源性能陷入瘫痪或不可用；<br>授权不足攻击是指错误的授予了攻击者访问权限或是授权太宽泛，或是使用了弱密码；<br>虚拟化攻击利用的是虚拟化环境的漏洞，获得了对底层物理硬件未被授权的访问；<br>重叠的信任边界潜藏了一种威胁，攻击者可以利用多个云用户共享的、基于云的IT资源。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;2-1、列举威胁作用者有哪些，并简要说明。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;威胁作用者主要有：&lt;br&gt;匿名攻击者、恶意服务作用者，授信的攻击者、恶意的内部人员；&lt;/p&gt;
+&lt;p&gt;说明：&lt;br&gt;匿名攻击者是不被信任的威胁作用者，通常试图从云边界的外部进行攻击&lt;b</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>exp4</title>
+    <link href="https://saltyorange4b.github.io/2022/03/14/exp4/"/>
+    <id>https://saltyorange4b.github.io/2022/03/14/exp4/</id>
+    <published>2022-03-14T07:39:39.000Z</published>
+    <updated>2022-03-14T07:52:43.429Z</updated>
+    
+    <content type="html"><![CDATA[<p>1-1</p><p>1.技术组件：<br>    宽带网络和Internet架构，数据中心技术，虚拟化技术，Web技术，多租户技术，服务技术</p><p>2.关键特征：</p><p>所有的云必须连接到网络，同时利用数据中心技术集中存放IT资源，应用虚拟化技术将物理IT资源转换为虚拟IT资源，从而提供了硬件无关性、服务器整合、资源复制、对资源更强的支持和可扩展性；使用Web技术作为云服务的实现介值和管理接口；设计多租户技术使多个用户在逻辑上同时访问一个应用；其中的服务技术是云计算的基石，形成了“作为服务”的云交付模型的基础。</p><p>1-2</p><p>VMware ESXi：侧重于服务器虚拟化，技术较成熟，功能也多，支持虚机系统多。</p><p>Xenserver：重点在于桌面虚拟化，性价比高，网络性能好，适用于快速与大规模部署，支持系统也相对较多。</p><p>Hype-V：微软开发，起步相对较晚，对于MS的系统较为支持。</p><p>Oracle VM VirtualBox：开源，支持的系统种类繁多。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1-1&lt;/p&gt;
+&lt;p&gt;1.技术组件：&lt;br&gt;    宽带网络和Internet架构，数据中心技术，虚拟化技术，Web技术，多租户技术，服务技术&lt;/p&gt;
+&lt;p&gt;2.关键特征：&lt;/p&gt;
+&lt;p&gt;所有的云必须连接到网络，同时利用数据中心技术集中存放IT资源，应用虚拟化技术将物理IT</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://saltyorange4b.github.io/2022/03/07/hello-world/"/>
+    <id>https://saltyorange4b.github.io/2022/03/07/hello-world/</id>
+    <published>2022-03-07T08:22:50.147Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
